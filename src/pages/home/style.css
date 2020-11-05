@@ -1,0 +1,23 @@
+.App-header {
+  /* background-image: url("https://media.giphy.com/media/FE0WTM8BG754I/giphy.gif");
+  background-size: cover; */
+  background-color: #301555;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+.App-main {
+    min-height: 95vh; 
+  }
+
+.App-footer {
+    min-height: 5vh; 
+  }  
+
+.particle{
+    position:fixed !important;
+    left:0;
+    top:0;
+    width:50%;
+    height:100%;
+}
