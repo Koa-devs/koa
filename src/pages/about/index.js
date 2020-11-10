@@ -16,7 +16,7 @@ class About extends Component {
     //--Motasim Foads Portfolio website Google analytics--
     //--Replace with your own key !!
     ReactGa.initialize("UA-154721739-1");
-    ReactGa.pageview('motasimfoad.com - About Screen');
+    ReactGa.pageview('koadevs.com - About Screen');
     //--Motasim Foads Portfolio website Google analytics--
   }
  
@@ -26,12 +26,8 @@ class About extends Component {
           <Helmet>
                 <meta charSet="utf-8" />
                 <title>Conocenos | Koa Devs</title>
-                <link rel="canonical" href="http://motasimfoad.com/about" />
-                <meta name="description" content="Motasim Foad | About - Product Manager | Project Manager | Software Engineer
-                Experienced Project & Product Manager with a demonstrated history of working in computer software industry. 
-                Skilled in leading edge project management, web & software development tools & trends. 
-                Strong computer engineering base with a BSc in Computer Science focused in Computer Software Engineering from BRAC University. 
-                In addition to that minor on Basic Business studies to assist me through product & project management" />
+                <link rel="canonical" href="http://koadevs.com/about" />
+                <meta name="description" content="KOA Devs | About - " />     // ADD HERE INFO ABOUT
           </Helmet>
            <Animate to="1" from="0" attributeName="opacity">
            <Particles

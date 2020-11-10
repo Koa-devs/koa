@@ -20,13 +20,13 @@ import {
            Hola! 
          </h1>
          <h2 className="second_line">
-           Somos <strong>Koa Devs</strong>
+           Somos <strong>KOA Devs</strong>
          </h2>
          <h3>
          <ReactTypingEffect
-           text="Agencia,Diseño,Desarrollo ... " //text=["Hello.", "World!"]
+           text="Agencia, Diseño, Desarrollo... " //text=["Hello.", "World!"]
            className="typical"
-           speed="100"
+           speed="150"
            eraseDelay="500000"
            />
          </h3>

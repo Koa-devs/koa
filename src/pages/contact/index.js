@@ -17,7 +17,7 @@ class Contact extends React.Component {
     //--Motasim Foads Portfolio website Google analytics--
     //--Replace with your own key !!
     ReactGa.initialize("UA-154721739-1");
-    ReactGa.pageview('motasimfoad.com - Contact Screen');
+    ReactGa.pageview('koadevs.com - Contact Screen');
   }
    //--Motasim Foads Portfolio website Google analytics--
 
@@ -27,8 +27,8 @@ class Contact extends React.Component {
         <Helmet>
                 <meta charSet="utf-8" />
                 <title></title>
-                <link rel="canonical" href="http://motasimfoad.com/contact" />
-                <meta name="description" content="Motasim Foad | Contact - Product Manager | Project Manager | Software Engineer" />
+                <link rel="canonical" href="http://koadevs.com/contact" />
+                <meta name="description" content="KOA Devs | Contact - Branding - Web Development - Landing Pages" />
         </Helmet>
         <Animate to="1" from="0" attributeName="opacity">
           <Particles

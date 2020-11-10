@@ -16,7 +16,7 @@ class Loading extends Component {
     //--Motasim Foads Portfolio website Google analytics--
     //--Replace with your own key !!
     ReactGA.initialize("UA-154721739-1");
-    ReactGA.pageview('motasimfoad.com - Loading Screen');
+    ReactGA.pageview('koadevs.com - Loading Screen');
     //--Motasim Foads Portfolio website Google analytics--
   }
     
@@ -31,8 +31,8 @@ class Loading extends Component {
          <Helmet>
                 <meta charSet="utf-8" />
                 <title>Motasim Foad</title>
-                <link rel="canonical" href="http://motasimfoad.com/" />
-                <meta name="description" content="Motasim Foad - Product Manager | Project Manager | Software Engineer" />
+                <link rel="canonical" href="http://koadevs.com/" />
+                <meta name="description" content="KOA Devs - " />
          </Helmet>
         <div className="Loading-header">
           <PuffLoader

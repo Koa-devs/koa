@@ -18,7 +18,7 @@ import {Helmet} from 'react-helmet';
 //--Replace with your own key !!
 function Analytics(){
   ReactGa.initialize("UA-154721739-1")
-  ReactGa.pageview('motasimfoad.com - Home Screen')
+  ReactGa.pageview('koadevs.com - Home Screen')
 }
 //--Motasim Foads Portfolio website Google analytics--
 
@@ -29,7 +29,7 @@ function Home() {
          <Helmet>
                   <meta charSet="utf-8" />
                   <title>Koa Devs</title>
-                  <link rel="canonical" href="http://motasimfoad.com/home" />
+                  <link rel="canonical" href="http://koadevs.com/home" />
                   <meta name="description" content="Koa Devs" />
          </Helmet>
           <Animate to="1" from="0" attributeName="opacity">
